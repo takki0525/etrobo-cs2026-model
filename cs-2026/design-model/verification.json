@@ -1,0 +1,72 @@
+{
+  "model": "設計モデル_日本語_審査説明版_v4.axmz",
+  "diagram_count": 10,
+  "native_diagram_types": {
+    "SysMLRequirementDiagram": 1,
+    "SysMLBlockDefinitionDiagram": 3,
+    "SysMLInternalBlockDiagram": 1,
+    "SysMLSequenceDiagram": 2,
+    "SysMLActivityDiagram": 1,
+    "SysMLStateMachineDiagram": 2
+  },
+  "sysml_elements": {
+    "Block": 27,
+    "Requirement": 6,
+    "TestCase": 6,
+    "Satisfy": 6,
+    "Verify": 6,
+    "Allocate": 11,
+    "ValueType": 17,
+    "InterfaceBlock": 4,
+    "FlowProperty": 4,
+    "ProxyPort": 8,
+    "ItemFlow": 4
+  },
+  "D01_user_geometry_preserved": true,
+  "model_ids_unchanged": true,
+  "relationship_endpoints_unchanged": true,
+  "uniform_node_sizes": {
+    "D02": [
+      260.0,
+      75.0
+    ],
+    "D03": [
+      328.0,
+      70.0
+    ],
+    "D05": [
+      440.0,
+      190.0
+    ],
+    "D04": [
+      311.59999999999997,
+      182.0
+    ],
+    "D06": [
+      250.0,
+      55.0
+    ],
+    "D07": [
+      451.0,
+      78.0
+    ],
+    "D08": [
+      330.0,
+      70.0
+    ],
+    "D09": [
+      394.0,
+      70.0
+    ],
+    "D10": [
+      250.0,
+      55.0
+    ]
+  },
+  "ports": 8,
+  "unresolved_local_references": [],
+  "native_png_exports": 10,
+  "implementation_baseline": "07b26ca0d67dedf07a736cec14eda77f0d2eff1b",
+  "implementation_tests": "未実施。検証候補を検証実績に変更していない。",
+  "visual_review": "全10図の画像を確認。D01/D02/D03/D05/D07/D08/D09/D10を拡大確認。"
+}
